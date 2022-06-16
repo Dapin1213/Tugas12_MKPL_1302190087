@@ -9,7 +9,12 @@
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
     <version>4.11</version> <!-- Or whatever JUnit you're using. -->
-	</dependency>
+  </dependency>
+  <dependency>
+    <groupId>contohprojectmaven</groupId>
+    <artifactId>contohproject</artifactId>
+    <version>0.3.4</version> 
+  </dependency>
 </dependencies>
   
   <properties>
